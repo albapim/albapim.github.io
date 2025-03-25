@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
 Welcome to the website where we explore the fascinating story behind our dataset. Here, you will find detailed information about the data collection process, analysis, and insights.
