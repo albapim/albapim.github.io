@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+# Welcome to My Website
+
+[Read the Story about the Dataset](story.html)
