@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Welcome to My Website
-
 Welcome to the website where we explore the fascinating story behind our dataset. Here, you will find detailed information about the data collection process, analysis, and insights.
 
 ## About the Dataset
