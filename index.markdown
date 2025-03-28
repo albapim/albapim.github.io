@@ -3,9 +3,18 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Story about Dataset
+
 ---
 
 Holi jeje
+
+## 📌 Introduction  
+Welcome to my interactive data story! This page will guide you through three different data visualizations that uncover insights.
+
+* 🔹 **Visualization 1**: [Click here to view](#vis1)
+
+Let's dive in! 🚀
 
 Welcome to the website where we explore the fascinating story behind our dataset. Here, you will find detailed information about the data collection process, analysis, and insights.
 
@@ -19,7 +28,9 @@ Our dataset contains valuable information collected from various sources. It pro
 
 [Read the Story about the Dataset](story.html)
 
-![Alt text](/assets/images/output.png)
+## Visualization 1 {#vis1}
+![Crime Data Visualization](/assets/images/output.png)  
+*Crime data visualization over time.*
 
 ## About the Dataset
 Our dataset contains valuable information collected from various sources. It provides insights into...
