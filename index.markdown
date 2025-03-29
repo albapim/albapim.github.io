@@ -3,42 +3,40 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Story about Dataset
+title: Unraveling San Francisco’s 2018 Theft Spike
 
 ---
 
-Holi jeje
-
-## 📌 Introduction  
+## Introduction  
 Welcome to my interactive data story! This page will guide you through three different data visualizations that uncover insights.
 
-* 🔹 **Visualization 1**: [Click here to view](#vis1)
+**The story should have a brief introduction to the dataset so new readers from outside the class can understand what's going on.**
 
 Let's dive in! 🚀
 
-Welcome to the website where we explore the fascinating story behind our dataset. Here, you will find detailed information about the data collection process, analysis, and insights.
-
 ## About the Dataset
 Our dataset contains valuable information collected from various sources. It provides insights into...
 
-## Key Findings
-- Finding 1: Description of the first key finding.
-- Finding 2: Description of the second key finding.
-- Finding 3: Description of the third key finding.
 
-[Read the Story about the Dataset](story.html)
+<div id="vis1">
+  <img src="/assets/images/Visualization1.png" alt="Crime Data Visualization" />
+  <p><em>Crime data visualization over time.</em></p>
+</div>
 
-## Visualization 1 {#vis1}
-![Crime Data Visualization](/assets/images/output.png)  
+
+<div id="vis2">
+  {% include Visualization2.html %}
+</div>
 *Crime data visualization over time.*
 
-## About the Dataset
-Our dataset contains valuable information collected from various sources. It provides insights into...
 
-## Key Findings
-- Finding 1: Description of the first key finding.
-- Finding 2: Description of the second key finding.
-- Finding 3: Description of the third key finding.
+<div id="vis3">
+  <iframe src="{{ '/assets/maps/Visualization3.html' | relative_url }}" width="100%" height="600px"></iframe>
+  Crime data visualization over time.
+</div>
 
 
-{% include bokeh_plot.html %}
+We can reference the images: 
+* **Visualization 1**: [Click here to view](#vis1)
+* **Visualization 2**: [Click here to view](#vis1)
+* **Visualization 3**: [Click here to view](#vis1)

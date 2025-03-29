@@ -19,9 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Assignment 2
-email: s243280@dtu.dk
-description: # >- # this means to ignore newlines until "baseurl:"
-  Assignment 2 for the course Social Data Analysis and Visualization
+email:
+description: |
+  Assignment 2 for the course 02806 Social Data Analysis and Visualization.  
+  Group 16 - s233155, s243280, s243297
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: >- #jekyllrb
