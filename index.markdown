@@ -38,5 +38,5 @@ Our dataset contains valuable information collected from various sources. It pro
 
 We can reference the images: 
 * **Visualization 1**: [Click here to view](#vis1)
-* **Visualization 2**: [Click here to view](#vis1)
-* **Visualization 3**: [Click here to view](#vis1)
+* **Visualization 2**: [Click here to view](#vis2)
+* **Visualization 3**: [Click here to view](#vis3)
