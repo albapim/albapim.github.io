@@ -43,8 +43,8 @@ There’s also a notable presence of shoplifting, suggesting organized theft gro
 
 <div id="vis2">
   {% include Visualization2.html %}
+  <p><em>Stacked bar chart categorizing theft incidents in San Francisco during 2018.</em></p>
 </div>
-*Stacked bar chart categorizing theft incidents in San Francisco during 2018.*
 
 <br>
 
@@ -57,7 +57,7 @@ You can press play to see it yourself!
 
 <div id="vis3">
   <iframe src="{{ '/assets/maps/Visualization3.html' | relative_url }}" width="100%" height="600px"></iframe>
-  Map showing theft incidents across all areas of San Francisco in 2018.
+  <p><em>Map showing theft incidents across all areas of San Francisco in 2018.</em></p>
 </div>
 
 <br>
@@ -66,7 +66,7 @@ You can press play to see it yourself!
 
 ## Why Was This Happening?
 
-One big issue was **organized crime** - many of these thefts weren't random but planned by groups that know how to avoid getting caught.
+One big issue was organized crime - many of these thefts weren't random but planned by groups that know how to avoid getting caught.
 
 From 2018, SFPD increased patrols in high-crime areas, like the Central district, but according to Assistant Police Chief Michael Redmond, the city is still short about 500 officers [[1]](#references).
  
