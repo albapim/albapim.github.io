@@ -64,11 +64,11 @@ You can press play to see it yourself!
 <hr>
 <br>
 
-## Why Is This Happening?
+## Why Was This Happening?
 
-One big issue is **organized crime** - many of these thefts aren’t random but planned by groups that know how to avoid getting caught.
+One big issue was **organized crime** - many of these thefts weren't random but planned by groups that know how to avoid getting caught.
 
-SFPD has increased patrols in high-crime areas, like the Central district, but according to Assistant Police Chief Michael Redmond, the city is still short about 500 officers [[1]](#references).
+From 2018, SFPD increased patrols in high-crime areas, like the Central district, but according to Assistant Police Chief Michael Redmond, the city is still short about 500 officers [[1]](#references).
  
 Laws are also changing to tackle theft. For example, Senator Scott Wiener introduced Senate Bill 905, which aims to close legal loopholes that make it harder to prosecute auto burglars [[2]](#references). 
 
